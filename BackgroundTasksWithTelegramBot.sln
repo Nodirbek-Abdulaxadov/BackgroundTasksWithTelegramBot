@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundTasksWithTelegramBot", "BackgroundTasksWithTelegramBot\BackgroundTasksWithTelegramBot.csproj", "{5DE801AB-BBC1-4E90-9354-835F35ACD720}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGBotTest", "TGBotTest\TGBotTest.csproj", "{091B3348-30F9-47D8-8368-70A1F5A386A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DE801AB-BBC1-4E90-9354-835F35ACD720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DE801AB-BBC1-4E90-9354-835F35ACD720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DE801AB-BBC1-4E90-9354-835F35ACD720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DE801AB-BBC1-4E90-9354-835F35ACD720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{091B3348-30F9-47D8-8368-70A1F5A386A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{091B3348-30F9-47D8-8368-70A1F5A386A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{091B3348-30F9-47D8-8368-70A1F5A386A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{091B3348-30F9-47D8-8368-70A1F5A386A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29AC663F-803E-404F-8EB2-5C8382B8ACFD}
+	EndGlobalSection
+EndGlobal
